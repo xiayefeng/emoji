@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/emoji-search/static/css/main.c4bd527b.chunk.css",
-    "main.js": "/emoji-search/static/js/main.ce8c1fa1.chunk.js",
-    "main.js.map": "/emoji-search/static/js/main.ce8c1fa1.chunk.js.map",
-    "runtime~main.js": "/emoji-search/static/js/runtime~main.aa9c999a.js",
-    "runtime~main.js.map": "/emoji-search/static/js/runtime~main.aa9c999a.js.map",
-    "static/css/2.f87fbcaa.chunk.css": "/emoji-search/static/css/2.f87fbcaa.chunk.css",
-    "static/js/2.68dbe4cf.chunk.js": "/emoji-search/static/js/2.68dbe4cf.chunk.js",
-    "static/js/2.68dbe4cf.chunk.js.map": "/emoji-search/static/js/2.68dbe4cf.chunk.js.map",
-    "index.html": "/emoji-search/index.html",
-    "precache-manifest.d736ae85710bfa5fa84568466ee2b39a.js": "/emoji-search/precache-manifest.d736ae85710bfa5fa84568466ee2b39a.js",
-    "service-worker.js": "/emoji-search/service-worker.js",
-    "static/css/2.f87fbcaa.chunk.css.map": "/emoji-search/static/css/2.f87fbcaa.chunk.css.map",
-    "static/css/main.c4bd527b.chunk.css.map": "/emoji-search/static/css/main.c4bd527b.chunk.css.map"
+    "main.css": "/emoji/static/css/main.c4bd527b.chunk.css",
+    "main.js": "/emoji/static/js/main.fe099ee8.chunk.js",
+    "main.js.map": "/emoji/static/js/main.fe099ee8.chunk.js.map",
+    "runtime~main.js": "/emoji/static/js/runtime~main.2bae1ab9.js",
+    "runtime~main.js.map": "/emoji/static/js/runtime~main.2bae1ab9.js.map",
+    "static/css/2.f87fbcaa.chunk.css": "/emoji/static/css/2.f87fbcaa.chunk.css",
+    "static/js/2.e620f1ea.chunk.js": "/emoji/static/js/2.e620f1ea.chunk.js",
+    "static/js/2.e620f1ea.chunk.js.map": "/emoji/static/js/2.e620f1ea.chunk.js.map",
+    "index.html": "/emoji/index.html",
+    "precache-manifest.2c8a92f4e8b43a013fa7e4fe02efed08.js": "/emoji/precache-manifest.2c8a92f4e8b43a013fa7e4fe02efed08.js",
+    "service-worker.js": "/emoji/service-worker.js",
+    "static/css/2.f87fbcaa.chunk.css.map": "/emoji/static/css/2.f87fbcaa.chunk.css.map",
+    "static/css/main.c4bd527b.chunk.css.map": "/emoji/static/css/main.c4bd527b.chunk.css.map"
   }
 }
